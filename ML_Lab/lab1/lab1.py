@@ -39,7 +39,7 @@
 
 import plotly.express as px
 import pandas as pd
- 
+
 df = pd.DataFrame({
     'branch': ['CSE', 'ICT', 'EE', 'ME'],
     'avg_score': [78, 74, 69, 66]

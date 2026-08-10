@@ -1,0 +1,11 @@
+https://docs.superhuman.com/d/PDEU-SDE-Intern-Assignment_da-XTUrPsmJ/PDEU-SDE-Intern-Assignment_suKa0DJA
+
+git add .
+git commit -m "ADDED...."
+git push
+
+git clone https://github.com/mokshjalalwani-dotcom/R1test
+npm install
+create .env
+PORT=3001
+MONGO_URI=mongodb://mokshjalalwani_db_user:GQzSypbtgCbA4xm7@ac-msovrpq-shard-00-00.ncvoinq.mongodb.net:27017,ac-msovrpq-shard-00-01.ncvoinq.mongodb.net:27017,ac-msovrpq-shard-00-02.ncvoinq.mongodb.net:27017/R1test?ssl=true&replicaSet=atlas-s3amrv-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
