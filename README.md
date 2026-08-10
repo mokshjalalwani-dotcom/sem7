@@ -1,1 +1,1 @@
-##just practising to write readme of my own 😁
+Just practising to write readme of my own 😁
